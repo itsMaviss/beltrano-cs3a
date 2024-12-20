@@ -1,8 +1,0 @@
-1st  cd .venv\Scripts\
-2nd : .\activate
-3rd cd..
-4th cd..
-5th streamlit run app.py
-
-
-amo di gigibon mo pag opemn mo ka pycharm
